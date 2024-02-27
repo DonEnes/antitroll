@@ -1,5 +1,8 @@
 antitroll_cfg = {}
 
+-- WICHTIG:
+-- Das Script darf nicht umbenannt werden, anonsten funktioniet es nicht mehr 😉
+
 --------------------------------------------
 --------------------------------------------
 ------------ Job Weapon Whitelist ----------
